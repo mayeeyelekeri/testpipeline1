@@ -1,4 +1,4 @@
-@Library('pipeline_scripts') _ 
+@Library('mypipelinescripts') _ 
 
 blank { 
 }
