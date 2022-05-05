@@ -1,4 +1,7 @@
-@Library('mypipelinescripts') _ 
+@Library('pipeline_scripts') _ 
 
 blank { 
+	dbhost = "fitboi_win"
+	type = "nothing"
+	message = "welcome to my world"
 }
